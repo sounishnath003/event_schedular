@@ -9,7 +9,7 @@ This is very nice clean and clear rails event management app, which comes with b
 
 <br>
 
-![Drag Racing](Capture.png)
+![Drag Racing](Capture.PNG)
 
 - ### Nice UI Designed
 
